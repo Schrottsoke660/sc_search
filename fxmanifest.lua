@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'RLC Script'
+author 'Schrottsoke660'
 description 'Player Search System with ox_inventory'
 version '1.0.0'
 
